@@ -7,4 +7,4 @@ Group Members:
 Anish Shil,
 Harsh Battula,
 Vishal Subedi,
-Praveen Ravirathiam 
+Praveen Ravirathinam 
